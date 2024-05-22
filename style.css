@@ -1,0 +1,22 @@
+p{
+    color: burlywood;
+    font-size: 12px;
+    text-align: left;
+}
+body{
+    background-color: azure;
+}
+h1{
+    color: blueviolet;
+    font-size: 20px;
+    text-align: left
+}
+
+.navbar a{
+    border: solid rgb(2, 75, 16);
+    background-color: rgb(232, 152, 123);
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+    width: 25%;
+    }
